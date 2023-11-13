@@ -8,3 +8,7 @@ Middleware w Next.js to sposób na przetwarzanie żądań HTTP i odpowiedzi HTTP
 Middleware jest często używane do wykonywania operacji takich jak autoryzacja, logowanie, przekierowywanie użytkowników, obsługa błędów i wiele innych. Możesz zdefiniować middleware na różnych poziomach w aplikacji Next.js, w zależności od tego, jakie zachowanie chcesz osiągnąć.
 
 Middleware w Next.js daje dużą elastyczność w zarządzaniu operacjami przetwarzania żądań HTTP w Twojej aplikacji. Możesz tworzyć własne middleware lub korzystać z gotowych rozwiązań dostępnych w społeczności Next.js.
+
+
+
+#Next.js
